@@ -1,0 +1,16 @@
+{
+    "name": "anthraxisbr/unit-test-standalone-functions",
+    "require": {
+        "phpunit/phpunit": "^8.0@dev"
+    },
+    "require-dev": {
+        "vlucas/phpdotenv": "^2.5@dev"
+    },
+    "authors": [
+        {
+            "name": "Gabriel Mourão",
+            "email": "gabrielmouraodemelo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
